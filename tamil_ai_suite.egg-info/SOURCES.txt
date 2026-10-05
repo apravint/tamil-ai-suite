@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+tamil_ai_suite.egg-info/PKG-INFO
+tamil_ai_suite.egg-info/SOURCES.txt
+tamil_ai_suite.egg-info/dependency_links.txt
+tamil_ai_suite.egg-info/entry_points.txt
+tamil_ai_suite.egg-info/requires.txt
+tamil_ai_suite.egg-info/top_level.txt
+tamilai/__init__.py
+tamilai/analyzer.py
+tamilai/cli.py
+tamilai/llm.py
+tamilai/prompt.py
+tamilai/transliterate.py
+tamilai/tts.py
